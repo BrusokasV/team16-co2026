@@ -1,0 +1,1410 @@
+Much Ado about Morse Code.
+
+Romeo, control.
+Juliet, input.
+Ophelia, 45, dash.
+Hamlet, 46, dot.
+Othello, 32, space.
+Lady Macbeth, 47, slash. 
+
+Act I: Translator.
+
+Scene I: Set up output values.
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    You are the sum of a beautiful small big pretty large tree and a small big pretty large tree.
+    You are the sum of thyself and a big pig.
+
+Hamlet:
+    You are the sum of Hamlet and a pig.
+
+[Exit Ophelia]
+
+[Enter Lady Macbeth]
+
+Hamlet:
+    You are the sum of Hamlet and a tree.
+
+[Exit Lady Macbeth]
+
+[Enter Othello]
+
+Hamlet:
+    You are a beautiful small big pretty large tree.
+
+Scene II: Loop.
+
+[Exeunt]
+
+[Enter Othello and Hamlet]
+
+Hamlet:
+    Speak thy mind!
+
+[Exeunt]
+
+[Enter Romeo and Juliet]
+
+Juliet:
+    You are the sum of a beautiful small big pretty large tiny tree and a tree.
+
+Romeo:
+    Open thy mind!
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene III.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene IV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene V.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene VI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene VII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene VIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene IX.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene X.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XIV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XVI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XVII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XVIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XIX.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XX.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXIV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXVI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXVII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXVIII.
+
+Juliet:
+    You are as good as Othello.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXIX.
+
+Juliet:
+    You are the sum of a big tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXX.
+
+Juliet:
+    You are the sum of a little big tree and thyself.
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXIII.
+
+Juliet:
+    You are the sum of a big tree and thyself.
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXIV.
+
+Juliet:
+    You are the sum of a big tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXV.
+
+Juliet:
+    You are the sum of a big tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXVI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXVII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXVIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XXXIX.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XL.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLIII.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLIV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLV.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLVI.
+
+Juliet:
+    You are the sum of a tree and thyself.
+
+Juliet:
+    Am I as good as you?
+
+Romeo:
+    If so, let us proceed to scene XLVII.
+
+Romeo:
+    Let us proceed to scene XLVIII.
+
+Scene III: Output A.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene IV: Output B.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+    
+Ophelia:
+    Speak thy mind!
+    
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene V: Output C.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene VI: Output D.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+    
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene VII: Output E.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene VIII: Output F.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene IX: Output G.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene X: Output H.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XI: Output I.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XII: Output J.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XIII: Output K.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XIV: Output L.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XV: Output M.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XVI: Output N.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XVII: Output O.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XVIII: Output P.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XIX: Output Q.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XX: Output R.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXI: Output S.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXII: Output T.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXIII: Output U.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXIV: Output V.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXV: Output W.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXVI: Output X.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXVII: Output Y.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXVIII: Output Z.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXIX: Output /.
+
+[Exeunt]
+
+[Enter Hamlet and Lady Macbeth]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXX: Output ".
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXI: Output '.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXII: Output (.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXIII: Output ).
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXIV: Output ,.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXV: Output dot.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXVI: Output 0.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXVII: Output 1.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXVIII: Output 2.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XXXIX: Output 3.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XL: Output 4.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLI: Output 5.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLII: Output 6.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLIII: Output 7.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLIV: Output 8.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLV: Output 9.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLVI: Output colon.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLVII: Output semi.
+
+[Exeunt]
+
+[Enter Hamlet and Ophelia]
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Speak thy mind!
+
+Ophelia:
+    Speak thy mind!
+
+Hamlet:
+    Let us proceed to scene II.
+
+Scene XLVIII: End.
+
+[Exeunt]
